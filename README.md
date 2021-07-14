@@ -1,0 +1,3 @@
+- 👋😑🧙‍♂️🦞 Hi, I’m Mike
+- 👀 I’m interested in node.js, python, AWS, terraform
+- 🌱 I’m currently learning ^^^
